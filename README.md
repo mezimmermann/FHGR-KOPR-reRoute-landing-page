@@ -1,4 +1,4 @@
-# re-route-landing-page
+# re:route landing page
 
 This website was created as a project in terms of KOPR DBM 2nd semester.
 
